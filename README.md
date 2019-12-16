@@ -1,5 +1,5 @@
 # idempotency
-接口幂等性，譬如：订单支付等
+## 基于spring boot+redis+拦截器实现接口幂等性，譬如：订单支付等
 
 访问localhost:8080/token,获取token
 ![](https://github.com/MuYaHai/idempotency/blob/master/images/%E6%89%B9%E6%B3%A8%202019-12-15%20210480.jpg)
